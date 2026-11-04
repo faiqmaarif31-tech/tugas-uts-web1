@@ -84,7 +84,8 @@ Langkah 4
 Halaman Pemesanan (checkout.html) 
 • Menampilkan data pemesanan yang dapat ditambah/ubah. 
 • Terdapat isian data informasi pemesan dan pembayaran.
-Screenshots:  ![image alt](
+Screenshots:  ![image alt](Screenshot 2026-11-04 182908.png)
+
 
 
 Langkah 5
