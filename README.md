@@ -76,6 +76,8 @@ Informasi Stok/Katalog (stok.html)
 • Menampilkan secara dinamis dari data dummy pada data.js di variable konstanta 
 dataKatalogBuku  
 Screenshots:  ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/4cd6b4c477fd7bd41a7998aa5cf4e8258837ebb8/Screenshot%202026-11-04%20182748.png)
+
+
 ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/21f00cf4124d2084eefe3606fab4d89ef3916180/Screenshot%202026-11-04%20182908.png)
 
 
@@ -85,6 +87,8 @@ Halaman Pemesanan (checkout.html)
 • Menampilkan data pemesanan yang dapat ditambah/ubah. 
 • Terdapat isian data informasi pemesan dan pembayaran.
 Screenshots:  ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/21f00cf4124d2084eefe3606fab4d89ef3916180/Screenshot%202026-11-04%20182908.png)
+
+
 ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/2ee5d1f982894da669e81a885ca9dabde61db05f/Screenshot%202026-11-04%20183109.png)
 
 
