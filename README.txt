@@ -59,7 +59,7 @@ Halaman Login (login.html)
 yang anda masukkan salah"  
 • Terdapat tombol “Lupa Password” dan “Daftar” yang dimunculkan dalam  
 • bentuk modal box/pop up 
-Screenshots: ![image alt]
+Screenshots: ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/f81ffaecde7c15bc729a0f68d9a5058c581000a4/Screenshot%202026-11-04%20182505.png)
 
 Langkah 2 
 Dashboard Menu (dashboard.html) 
@@ -68,14 +68,14 @@ o Informasi Stok/Katalog
 o Tracking Pengiriman 
 o Laporan Pemesanan  
 o Histroy Transaksi 
-Screenshots:  ![image alt]
+Screenshots:  ![image alt](
 
 Langkah 3 
 • Tampilkan “greeting” berdasarkan waktu local time (pagi/siang/sore). 
 Informasi Stok/Katalog (stok.html) 
 • Menampilkan secara dinamis dari data dummy pada data.js di variable konstanta 
 dataKatalogBuku  
-Screenshots:  ![image alt]
+Screenshots:  ![image alt](
 
 
 Langkah 4 
