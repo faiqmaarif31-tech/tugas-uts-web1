@@ -59,7 +59,7 @@ Halaman Login (login.html)
 yang anda masukkan salah"  
 • Terdapat tombol “Lupa Password” dan “Daftar” yang dimunculkan dalam  
 • bentuk modal box/pop up 
-Screenshots:
+Screenshots: ![image alt]
 
 Langkah 2 
 Dashboard Menu (dashboard.html) 
@@ -68,14 +68,14 @@ o Informasi Stok/Katalog
 o Tracking Pengiriman 
 o Laporan Pemesanan  
 o Histroy Transaksi 
-Screenshots:
+Screenshots:  ![image alt]
 
 Langkah 3 
 • Tampilkan “greeting” berdasarkan waktu local time (pagi/siang/sore). 
 Informasi Stok/Katalog (stok.html) 
 • Menampilkan secara dinamis dari data dummy pada data.js di variable konstanta 
 dataKatalogBuku  
-Screenshots:
+Screenshots:  ![image alt]
 
 
 Langkah 4 
@@ -83,7 +83,7 @@ Langkah 4
 Halaman Pemesanan (checkout.html) 
 • Menampilkan data pemesanan yang dapat ditambah/ubah. 
 • Terdapat isian data informasi pemesan dan pembayaran.
-Screenshots:
+Screenshots:  ![image alt]
 
 
 Langkah 5
@@ -94,5 +94,5 @@ o Nama Pemesan
 o Status Pengiriman (dapat disimulasikan dengan progress bar, warna, tabel, atau 
 list sesuai dengan kemampuan dan kreativitas anda)  
 o Detail ekspedisi, tanggal kirim, jenis paket, total pembayaran. 
-Screenshots:
+Screenshots:  ![image alt]
 
