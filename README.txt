@@ -96,5 +96,5 @@ o Nama Pemesan
 o Status Pengiriman (dapat disimulasikan dengan progress bar, warna, tabel, atau 
 list sesuai dengan kemampuan dan kreativitas anda)  
 o Detail ekspedisi, tanggal kirim, jenis paket, total pembayaran. 
-Screenshots:  ![image alt]
+Screenshots:  ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/31097e610c97281bf11feed86c84fac969261eac/Screenshot%202026-11-04%20183133.png)
 
