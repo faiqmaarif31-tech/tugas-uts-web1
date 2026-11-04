@@ -75,7 +75,7 @@ Langkah 3
 Informasi Stok/Katalog (stok.html) 
 • Menampilkan secara dinamis dari data dummy pada data.js di variable konstanta 
 dataKatalogBuku  
-Screenshots:  ![image alt](
+Screenshots:  ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/4cd6b4c477fd7bd41a7998aa5cf4e8258837ebb8/Screenshot%202026-11-04%20182748.png)
 
 
 Langkah 4 
