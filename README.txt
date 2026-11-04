@@ -68,7 +68,7 @@ o Informasi Stok/Katalog
 o Tracking Pengiriman 
 o Laporan Pemesanan  
 o Histroy Transaksi 
-Screenshots:  ![image alt](
+Screenshots:  ![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/4cd6b4c477fd7bd41a7998aa5cf4e8258837ebb8/Screenshot%202026-11-04%20182748.png)
 
 Langkah 3 
 • Tampilkan “greeting” berdasarkan waktu local time (pagi/siang/sore). 
