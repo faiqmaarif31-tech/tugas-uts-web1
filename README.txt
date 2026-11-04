@@ -50,3 +50,49 @@ UTS PEMROGRAMAN WEB 1
    - Data akun pada data.js merupakan data dummy dari soal.
    - Data transaksi baru disimpan pada localStorage browser yang digunakan.
    - File sampul sudah diletakkan di folder img dan nama file disesuaikan dengan properti cover pada data.js.
+
+Langkah 1 
+Halaman Login (login.html) 
+• Input: email dan password.  
+• Tombol “Login”  
+• Jika salah atau tidak sesuai, munculkan pop-up/alert yang berisi bahwa "email/password 
+yang anda masukkan salah"  
+• Terdapat tombol “Lupa Password” dan “Daftar” yang dimunculkan dalam  
+• bentuk modal box/pop up 
+Screenshots:
+
+Langkah 2 
+Dashboard Menu (dashboard.html) 
+• Menu utama yang terdiri atas tombol navigasi ke: 
+o Informasi Stok/Katalog 
+o Tracking Pengiriman 
+o Laporan Pemesanan  
+o Histroy Transaksi 
+Screenshots:
+
+Langkah 3 
+• Tampilkan “greeting” berdasarkan waktu local time (pagi/siang/sore). 
+Informasi Stok/Katalog (stok.html) 
+• Menampilkan secara dinamis dari data dummy pada data.js di variable konstanta 
+dataKatalogBuku  
+Screenshots:
+
+
+Langkah 4 
+• Terdapat fitur untuk menambahkan baris stok baru menggunakan Javascript DOM
+Halaman Pemesanan (checkout.html) 
+• Menampilkan data pemesanan yang dapat ditambah/ubah. 
+• Terdapat isian data informasi pemesan dan pembayaran.
+Screenshots:
+
+
+Langkah 5
+Informasi Pengiriman (tracking.html) 
+• Input: Nomor Delivery Order 
+• Ketika tombol "Cari" ditekan, tampilkan: 
+o Nama Pemesan  
+o Status Pengiriman (dapat disimulasikan dengan progress bar, warna, tabel, atau 
+list sesuai dengan kemampuan dan kreativitas anda)  
+o Detail ekspedisi, tanggal kirim, jenis paket, total pembayaran. 
+Screenshots:
+
