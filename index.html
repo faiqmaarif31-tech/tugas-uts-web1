@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Aplikasi pemesanan buku online"><title>Login | BukuKita</title>
+  <link rel="stylesheet" href="css/style.css"><script src="js/data.js" defer></script><script src="js/script.js" defer></script>
+</head>
+<body class="auth-page">
+  <main class="auth-shell">
+    <section class="auth-visual"><div class="brand brand-light"><span class="brand-mark">B</span><span>BukuKita</span></div><div class="visual-copy"><p class="eyebrow">TOKO BUKU ONLINE</p><h1>Temukan buku,<br>perluas wawasan.</h1><p>Pesan buku ajar favoritmu dengan mudah dan pantau pengirimannya dalam satu tempat.</p></div><div class="visual-bottom">Belajar dimulai dari halaman pertama.</div></section>
+    <section class="auth-form-wrap"><div class="auth-form-card"><div class="brand"><span class="brand-mark">B</span><span>BukuKita</span></div><p class="eyebrow">SELAMAT DATANG KEMBALI</p><h2>Masuk ke akun</h2><p class="muted">Masukkan email dan password untuk melanjutkan.</p>
+      <form id="loginForm" novalidate><label for="email">Email</label><input id="email" name="email" type="email" placeholder="nama@email.com" autocomplete="username" required><label for="password">Password</label><div class="password-wrap"><input id="password" name="password" type="password" placeholder="Masukkan password" autocomplete="current-password" required><button class="password-toggle" type="button" id="togglePassword" aria-label="Tampilkan password">Lihat</button></div><button class="btn btn-primary btn-full" type="submit">Login <span>→</span></button></form>
+      <div class="auth-links"><button type="button" class="text-button" data-modal="forgotModal">Lupa Password?</button><span>Belum punya akun? <button type="button" class="text-button" data-modal="registerModal">Daftar</button></span></div>
+      <div class="demo-box"><strong>Akun untuk mencoba</strong><br>Rina: rina@gmail.com / rina123<br>Agus: agus@gmail.com / agus123<br>Admin: siti@gmail.com / siti123</div>
+    </div></section>
+  </main>
+  <div class="modal" id="forgotModal" aria-hidden="true"><div class="modal-card"><button class="modal-close" data-close="forgotModal" aria-label="Tutup">×</button><p class="eyebrow">BANTUAN AKUN</p><h2>Lupa password?</h2><p class="muted">Masukkan email akunmu. Untuk simulasi tugas ini, informasi akun akan ditampilkan jika email ditemukan.</p><form id="forgotForm"><label for="forgotEmail">Email</label><input id="forgotEmail" type="email" placeholder="nama@email.com" required><button class="btn btn-primary btn-full" type="submit">Periksa akun</button></form><p id="forgotResult" class="form-message"></p></div></div>
+  <div class="modal" id="registerModal" aria-hidden="true"><div class="modal-card"><button class="modal-close" data-close="registerModal" aria-label="Tutup">×</button><p class="eyebrow">BUAT AKUN</p><h2>Daftar BukuKita</h2><p class="muted">Formulir pendaftaran simulasi.</p><form id="registerForm"><label for="regName">Nama lengkap</label><input id="regName" required placeholder="Nama lengkap"><label for="regEmail">Email</label><input id="regEmail" type="email" required placeholder="nama@email.com"><label for="regPassword">Password</label><input id="regPassword" type="password" minlength="6" required placeholder="Minimal 6 karakter"><button class="btn btn-primary btn-full" type="submit">Daftar sekarang</button></form><p id="registerResult" class="form-message"></p></div></div>
+</body></html>
