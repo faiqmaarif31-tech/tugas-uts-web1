@@ -85,7 +85,7 @@ Halaman Pemesanan (checkout.html)
 • Menampilkan data pemesanan yang dapat ditambah/ubah. 
 • Terdapat isian data informasi pemesan dan pembayaran.
 Screenshots:  ![image alt](Screenshot 2026-11-04 182908.png)
-
+![image alt](https://github.com/faiqmaarif31-tech/tugas-uts-web1/blob/2ee5d1f982894da669e81a885ca9dabde61db05f/Screenshot%202026-11-04%20183109.png)
 
 
 Langkah 5
